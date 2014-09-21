@@ -4,12 +4,12 @@
 
 * git init
 * git status
-* git push [remote] [branch]
-* git pull [remote] [branch]
+* git push [repository] [branch]
+* git pull [repository] [branch]
 * git add [files]
 * git commit -m '[commentaire]'
 * git branch [nom de la branche]
-* git branch -v 
+* git branch -v t
 * git checkout [nom de la branche]
 * git remote
-* git remote add [nom de la remote] [url de la remote]
+* git remote add [nom du repo] [url de la remote]
