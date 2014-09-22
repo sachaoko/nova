@@ -13,3 +13,4 @@
 * git checkout [nom de la branche]
 * git remote
 * git remote add [nom du repo] [url de la remote]
+it r
